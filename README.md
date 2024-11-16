@@ -6,7 +6,9 @@ Node MCU,
 Motion sensor,
 Leds,
 Gas sensor,
-LDR sensor
+LDR sensor,
+INA219 sensor (for measuring Power, Current, Voltage),
+Solar Panel
 
 # Softwares-Used
 Blynk IoT (Mobile and Web),
